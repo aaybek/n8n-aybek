@@ -1,5 +1,5 @@
 {
-  "name": "n8n",
+  "name": "n8n-aybek",
   "version": "1.0.0",
   "scripts": {
     "start": "n8n start --tunnel"
